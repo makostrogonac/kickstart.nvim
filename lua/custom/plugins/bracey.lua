@@ -1,5 +1,5 @@
 return {
-  'turbio/bracey.vim',
+  'lethc/bracey.vim',
   -- load only when you’re editing web files or call a Bracey cmd
   ft = { 'html', 'css', 'javascript', 'typescript' },
   cmd = { 'Bracey', 'BraceyStop', 'BraceyReload', 'BraceyEval' },
