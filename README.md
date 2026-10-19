@@ -75,7 +75,7 @@ for the tradeoffs between the two approaches.
 
 > [!NOTE]
 > Your repo's URL will be something like this:
-> `https://github.com/<your_github_username>/kickstart.nvim.git`
+> `https://github.com/makostrogonac/kickstart.nvim.git`
 
 You likely want to remove `nvim-pack-lock.json` from your repo's `.gitignore`
 file too - it's ignored in the kickstart repo to make maintenance easier, but
@@ -85,7 +85,7 @@ it's recommended to track it in version control (see `:help vim.pack-lockfile`).
 
 > [!NOTE]
 > If following the recommended step above (i.e., creating your own repo from
-> the template or fork), replace `nvim-lua` with `<your_github_username>`
+> the template or fork), replace `nvim-lua` with `makostrogonac`
 > in the commands below
 
 <details><summary> Linux and Mac </summary>
